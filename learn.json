@@ -1,0 +1,19 @@
+{
+    "slug": "startup-lab",
+    "title": {
+      "es": "STARTUP - Ataque con Hash NTLM vía SMB Público",
+      "en": "STARTUP - NTLM Hash Attack via Public SMB"
+    },
+    "preview": "https://github.com/4GeeksAcademy/startup-capture-the-flag/blob/main/assets/preview.png?raw=true",
+    "translations": ["es", "en"],
+    "technologies": ["cybersecurity", "windows", "smb", "ntlm", "winrm"],
+    "difficulty": "intermediate",
+    "syntax": "bash",
+    "duration": 2,
+    "projectType": "capture-the-flag",
+    "description": {
+      "es": "Accede como Administrator a una máquina Windows utilizando un hash NTLM expuesto en un recurso SMB público. Aprende a explotar configuraciones inseguras y realizar autenticación Pass-the-Hash.",
+      "en": "Gain Administrator access to a Windows machine using an NTLM hash exposed in a public SMB share. Learn to exploit insecure configurations and perform Pass-the-Hash authentication."
+    }
+  }
+  
