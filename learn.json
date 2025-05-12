@@ -4,10 +4,10 @@
       "es": "STARTUP - Ataque con Hash NTLM vía SMB Público",
       "en": "STARTUP - NTLM Hash Attack via Public SMB"
     },
-    "preview": "https://github.com/4GeeksAcademy/startup-capture-the-flag/blob/main/assets/preview.png?raw=true",
+    "preview": "https://github.com/breatheco-de/startup-capture-the-flag/blob/main/assets/preview.png?raw=true",
     "solution": {
-    "us":"https://github.com/4GeeksAcademy/capture-flag-NTLM-hash-attack/blob/solution/SOLUTION.md",
-    "es": "https://github.com/4GeeksAcademy/capture-flag-NTLM-hash-attack/blob/solution/SOLUTION.es.md"
+    "us":"https://github.com/breatheco-de/capture-flag-NTLM-hash-attack/blob/solution/SOLUTION.md",
+    "es": "https://github.com/breatheco-de/capture-flag-NTLM-hash-attack/blob/solution/SOLUTION.es.md"
     },
     "technologies": ["cybersecurity", "windows", "smb", "ntlm", "winrm"],
     "difficulty": "intermediate",
