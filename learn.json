@@ -1,14 +1,16 @@
 {
-    "slug": "startup-lab",
+    "slug": "NTLM-hash-attack-lab",
     "title": {
       "es": "STARTUP - Ataque con Hash NTLM vía SMB Público",
       "en": "STARTUP - NTLM Hash Attack via Public SMB"
     },
     "preview": "https://github.com/4GeeksAcademy/startup-capture-the-flag/blob/main/assets/preview.png?raw=true",
-    "translations": ["es", "en"],
+    "solution": {
+    "us":"https://github.com/4GeeksAcademy/capture-flag-NTLM-hash-attack/blob/solution/SOLUTION.md",
+    "es": "https://github.com/4GeeksAcademy/capture-flag-NTLM-hash-attack/blob/solution/SOLUTION.es.md"
+    },
     "technologies": ["cybersecurity", "windows", "smb", "ntlm", "winrm"],
     "difficulty": "intermediate",
-    "syntax": "bash",
     "duration": 2,
     "projectType": "capture-the-flag",
     "description": {
