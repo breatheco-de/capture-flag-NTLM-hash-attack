@@ -16,6 +16,14 @@
     "description": {
       "es": "Accede como Administrator a una máquina Windows utilizando un hash NTLM expuesto en un recurso SMB público. Aprende a explotar configuraciones inseguras y realizar autenticación Pass-the-Hash.",
       "en": "Gain Administrator access to a Windows machine using an NTLM hash exposed in a public SMB share. Learn to exploit insecure configurations and perform Pass-the-Hash authentication."
-    }
+    },
+    "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 1
+	}
   }
   
